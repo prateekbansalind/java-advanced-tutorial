@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03-exception-exceptions-hierarchy" />
+        <module name="04-exception-catching-exceptions" />
+        <module name="getters-and-setters" />
+        <module name="01-exception-demo" />
+        <module name="02-exception-types-of-exception" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
