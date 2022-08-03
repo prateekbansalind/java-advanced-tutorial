@@ -3,14 +3,14 @@ package org.pbansal.generics;
 
 
 public class GenericList<T> {
-    private Object[] items = new Object[10];
+    private T[] items = (T[]) new Object[10];
     private int count;
 
-    public void add(Object item){
+    public void add(T item){
         items[count++] = item;
     }
 
-    public Object get(int index){
+    public T get(int index){
         return items[index];
     }
 }

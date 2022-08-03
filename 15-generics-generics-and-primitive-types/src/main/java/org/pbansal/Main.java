@@ -12,9 +12,9 @@ public class Main {
 
      GenericList<Integer> numbers = new GenericList<>();
      numbers.add(1); // boxing
-     int number = (int) numbers.get(0);
+     int number = numbers.get(0); // unboxing
         System.out.println(number);
-
 
     }
 }
+
