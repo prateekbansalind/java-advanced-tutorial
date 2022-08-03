@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="04-exception-catching-exceptions" />
+        <module name="getters-and-setters" />
+        <module name="16-generics-constraints" />
+        <module name="10-exception-custom-exception" />
+        <module name="13-generics-poor-solution" />
+        <module name="01-exception-demo" />
+        <module name="02-exception-types-of-exception" />
+        <module name="12-generics-need-for-generics" />
+        <module name="08-exception-throwing-exception" />
+        <module name="09-exception-re-throwing-exception" />
+        <module name="03-exception-exceptions-hierarchy" />
+        <module name="06-exception-finally-block" />
+        <module name="05-exception-catching-multiple-types-exceptions" />
+        <module name="15-generics-generics-and-primitive-types" />
+        <module name="11-exception-chaining-exception" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
