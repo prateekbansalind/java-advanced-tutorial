@@ -15,12 +15,7 @@ public class Utils {
         System.out.println(user);
     }
 
-    // class CAP#1 extends User{}
-    // class Instructor extends User
-    public static void printUsers
-        (GenericList<? super User> users){
-        GenericList<Object> temp = new GenericList<>();
-        users.add(new Instructor());
+    public static void printUsers(GenericList<User> users){
 
     }
 }
